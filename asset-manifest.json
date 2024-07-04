@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobloot/static/css/main.50cc6ca8.css",
+    "main.js": "/mobloot/static/js/main.0f2b9f0f.js",
+    "static/js/453.72bc88d5.chunk.js": "/mobloot/static/js/453.72bc88d5.chunk.js",
+    "index.html": "/mobloot/index.html",
+    "main.50cc6ca8.css.map": "/mobloot/static/css/main.50cc6ca8.css.map",
+    "main.0f2b9f0f.js.map": "/mobloot/static/js/main.0f2b9f0f.js.map",
+    "453.72bc88d5.chunk.js.map": "/mobloot/static/js/453.72bc88d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cc6ca8.css",
+    "static/js/main.0f2b9f0f.js"
+  ]
+}
